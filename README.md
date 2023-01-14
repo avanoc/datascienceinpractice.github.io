@@ -6,10 +6,10 @@ It's a demo from COGS108 course at UC San Diego.
 When finished, there should be 10 files:
 
 6 Assignments: 
-- Python Introduction
-- Pandas
-- Data Exploration
-- Data Privacy
+- Python Introduction ✔
+- Pandas ✔
+- Data Exploration ✔
+- Data Privacy 
 - Data Analysis
 - Natural Language Processing
 
