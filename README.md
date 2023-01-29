@@ -9,7 +9,7 @@ When finished, there should be 10 files:
 - Python Introduction ✔
 - Pandas ✔
 - Data Exploration ✔
-- Data Privacy 
+- Data Privacy ✔
 - Data Analysis
 - Natural Language Processing
 
