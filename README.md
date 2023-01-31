@@ -10,7 +10,7 @@ When finished, there should be 10 files:
 - Pandas ✔
 - Data Exploration ✔
 - Data Privacy ✔
-- Data Analysis
+- Data Analysis ✔
 - Natural Language Processing
 
 4 Projects:
