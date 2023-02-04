@@ -11,7 +11,7 @@ When finished, there should be 10 files:
 - Data Exploration ✔
 - Data Privacy ✔
 - Data Analysis ✔
-- Natural Language Processing
+- Natural Language Processing ✔
 
 4 Projects:
 - Final Project
