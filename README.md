@@ -13,8 +13,6 @@ When finished, there should be 10 files:
 - Data Analysis ✔
 - Natural Language Processing ✔
 
-4 Projects:
-- Final Project
+A Final Project:
 - Final Project Proposal
 - Final Project
-- Project Checklist
