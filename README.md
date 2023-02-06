@@ -14,5 +14,5 @@ When finished, there should be 8 major files:
 - Natural Language Processing ✔
 
 A Final Project:
-- Final Project Proposal
+- Final Project Proposal ✔
 - Final Project
