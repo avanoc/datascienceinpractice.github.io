@@ -1,4 +1,8 @@
 # Project Proposal
+For a few years now, I've been struggling with gastrointestinal discomfort. At some point, I found out that I'm intolerant to oranges and onions, but while avoiding these two works in general, I still feel unwell many times so I believe there's something else I should avoid eating.
+One of the problems I have is that I'm usually constipated. Not being able to stool in 4 or 5 days makes me feel swollen and heavy, with low energy.
+I've just started a low FODMAPs diet, which is a 2 steps process. For the first part of it, I should only eat low-FODMAP food. In a second term, I have to reintroduce food (one at a time) and check if they have any impact.
+
 ## Research Question
 Find out if there's any relationship between food, physical activity and water intake with my own bowel movement.
 
@@ -27,13 +31,16 @@ According to this [calculator](https://www.calculator.net/carbohydrate-calculato
 ### Fat Intake
 The general recommendation is that people should eat [between 20% to 35%](https://newsnetwork.mayoclinic.org/discussion/fat-grams-how-to-track-fat-in-your-diet/) of daily calories as total fat, but only 10 % or less shoould be saturated fats.
 This means I shoul eat between 54 and 94 grams of total fat, from which	not more than 27 grams may be saturated.
-A novel study may have linked [high saturated fat intake with constipation] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4584183/) specially when there's diabetes and for non-latin coloured people.
+A novel study may have linked [high saturated fat intake with constipation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4584183/) specially when there's diabetes and for non-latin coloured people.
 
 ### Time between food intake and symptoms
-[It may take from 4 hs upto 48 hs to develop any symptoms] (https://www.monashfodmap.com/blog/timing-of-symptoms/)
+[It may take from 4 hs upto 48 hs to develop any symptoms](https://www.monashfodmap.com/blog/timing-of-symptoms/)
+
+### Bowel Movements
+[Normal stool frequency is between three per week and three per day](https://pubmed.ncbi.nlm.nih.gov/20205503/)
 
 ## Hypothesis
-Keeping water intake over 1.5 L per day, while reducing high FODMAPs and developping a regular excercise routine, should improve my own bowel movements and overall gastrointestinal health. 
+Keeping water intake over 1.5 L per day, while reducing high FODMAPs and developping a regular excercise routine, should improve my own bowel movements and overall gastrointestinal health.
 
 ## Data
 I kept a journal for over 30 days, including everything I've been eating, how much water I've been drinking, if I've done at least 30 minutes of excercise, how I've been feeling and of course, if I've been able to go to the bathroom or not.
